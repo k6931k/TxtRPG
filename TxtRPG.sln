@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "참조", "참조\참조.csproj", "{7C372E3D-B0C7-4AA2-B9EE-272A460212E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtRpg", "TxtRpg\TxtRpg.csproj", "{84DAAB4B-9440-4EE6-A814-636FA9BCD83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C372E3D-B0C7-4AA2-B9EE-272A460212E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C372E3D-B0C7-4AA2-B9EE-272A460212E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C372E3D-B0C7-4AA2-B9EE-272A460212E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C372E3D-B0C7-4AA2-B9EE-272A460212E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DAAB4B-9440-4EE6-A814-636FA9BCD83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DAAB4B-9440-4EE6-A814-636FA9BCD83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DAAB4B-9440-4EE6-A814-636FA9BCD83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DAAB4B-9440-4EE6-A814-636FA9BCD83A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
